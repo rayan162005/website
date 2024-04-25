@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE flowershop SYSTEM "flower.dtd" >
+
+<flowershop>
+    
+    <flower>
+        <name>Roses</name>
+        <price>100</price>
+    </flower>
+    <flower>
+        <name>Sunflowers</name>
+        <price>600</price>
+    </flower>
+    <flower>
+        <name>lilies</name>
+        <price>300</price>
+    </flower>
+    <flower>
+        <name>Tulips</name>
+        <price>550</price>
+    </flower>
+    
+</flowershop>
